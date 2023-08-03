@@ -1,4 +1,4 @@
-module gitlab.com/bp_group/microservice/proto
+module github.com/lelong310590/bpg-proto
 
 go 1.20
 
